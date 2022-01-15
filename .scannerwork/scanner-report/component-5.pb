@@ -1,0 +1,1 @@
+Lsrc/main/java/com/sport/system/play/sportuserservice/entity/Permissions.java 2javaX!hrLsrc/main/java/com/sport/system/play/sportuserservice/entity/Permissions.java

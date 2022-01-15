@@ -1,0 +1,159 @@
+Environment variables:
+  - =::=::\
+  - =C:=C:\src\workspace\java\canchas-proyect\sport-user-service
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\USUARIO\AppData\Roaming
+  - ARTIFACTORY_TOKEN=Diego123*
+  - ARTIFACTORY_URL=https://artifactory.megaprofer.com/artifactory/libs-release/
+  - ARTIFACTORY_USER=Diego
+  - COMPOSE_CONVERT_WINDOWS_PATHS=true
+  - COMPUTERNAME=DIEGO
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - GRADLE_HOME=C:\src\gradle-6.6\bin
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\USUARIO
+  - JAVA_EXEC="C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin\..\jre
+  - JD2_HOME=C:\Users\USUARIO\AppData\Local\JDownloader 2.0
+  - LOCALAPPDATA=C:\Users\USUARIO\AppData\Local
+  - LOGONSERVER=\\DIEGO
+  - M2=C:\apache-maven-3.5.3-bin\bin\bin
+  - M2_HOME=C:\apache-maven-3.5.3-bin\bin
+  - NUMBER_OF_PROCESSORS=8
+  - OS=Windows_NT
+  - OneDrive=C:\Users\USUARIO\OneDrive
+  - OneDriveConsumer=C:\Users\USUARIO\OneDrive
+  - OnlineServices=Online Services
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=7e05
+  - PROG27B48B2C054=1
+  - PROJECT_HOME=C:\src\workspace\java\canchas-proyect\sport-user-service
+  - PROMPT=$P$G
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\src\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\src\gradle-6.6\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\apache-maven-3.5.3-bin\bin;C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin;C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps;C:\Users\USUARIO\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\bin;C:\Users\USUARIO\AppData\Roaming\npm;C:\Users\USUARIO\AppData\Roaming\Composer\vendor\bin;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot\bin;C:\src\gradle-6.6\bin;C:\Program Files\heroku\bin;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot;C:\Users\USUARIO\AppData\Local\gitkraken\bin;C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - RegionCode=NA
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\USUARIO\AppData\Local\Temp
+  - TMP=C:\Users\USUARIO\AppData\Local\Temp
+  - USERDOMAIN=DIEGO
+  - USERDOMAIN_ROAMINGPROFILE=DIEGO
+  - USERNAME=USUARIO
+  - USERPROFILE=C:\Users\USUARIO
+  - ZES_ENABLE_SYSMAN=1
+  - platformcode=KV
+  - scriptdir=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin\..\lib\sonar-scanner-cli-4.6.2.2472.jar
+  - java.class.version=55.0
+  - java.home=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\jre
+  - java.io.tmpdir=C:\Users\USUARIO\AppData\Local\Temp\
+  - java.library.path=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\src\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\src\gradle-6.6\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\apache-maven-3.5.3-bin\bin;C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin;C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps;C:\Users\USUARIO\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\bin;C:\Users\USUARIO\AppData\Roaming\npm;C:\Users\USUARIO\AppData\Roaming\Composer\vendor\bin;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot\bin;C:\src\gradle-6.6\bin;C:\Program Files\heroku\bin;C:\src\java\AdoptOpenJDK\jdk-11.0.7.10-hotspot;C:\Users\USUARIO\AppData\Local\gitkraken\bin;C:\Users\USUARIO\AppData\Local\Microsoft\WindowsApps;;.
+  - java.runtime.name=OpenJDK Runtime Environment
+  - java.runtime.version=11.0.11+9
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=11
+  - java.vendor=AdoptOpenJDK
+  - java.vendor.url=https://adoptopenjdk.net/
+  - java.vendor.url.bug=https://github.com/AdoptOpenJDK/openjdk-support/issues
+  - java.vendor.version=AdoptOpenJDK-11.0.11+9
+  - java.version=11.0.11
+  - java.version.date=2021-04-20
+  - java.vm.compressedOopsMode=32-bit
+  - java.vm.info=mixed mode
+  - java.vm.name=OpenJDK 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=11
+  - java.vm.vendor=AdoptOpenJDK
+  - java.vm.version=11.0.11+9
+  - jdk.debug=release
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=C:\src\workspace\java\canchas-proyect\sport-user-service
+  - scanner.home=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.library.path=C:\Users\USUARIO\Desktop\sonarquebe\sonar-scanner-4.6.2.2472-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -Dsonar.projectKey=TestUserServiceComplex -Dsonar.sources=C:\src\workspace\java\canchas-proyect\sport-user-service\src -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=EC
+  - user.dir=C:\src\workspace\java\canchas-proyect\sport-user-service
+  - user.home=C:\Users\USUARIO
+  - user.language=es
+  - user.name=USUARIO
+  - user.script=
+  - user.timezone=America/Bogota
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.10.0.2131 (python)
+  - SonarCSS 1.0.3.724 (cssfamily)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.4.0.155 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.0.0.6962 (javascript)
+  - SonarRuby 1.4.0.155 (ruby)
+  - SonarScala 1.4.0.155 (sonarscala)
+  - SonarC# 7.9.1.7622 (csharp)
+  - SonarJava 5.9.2.16552 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - Git 1.6.0.1349 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarPHP 2.15.0.4060 (php)
+  - SonarTS 1.8.0.3332 (typescript)
+  - SonarVB 7.9.1.7622 (vbnet)
+Global properties:
+  - sonar.core.id=BF41A1F2-AX2TFE87Eb0KPv9YaQK1
+  - sonar.core.startTime=2021-12-06T23:08:40-0500
+Settings for module: TestUserServiceComplex
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=C:/src/workspace/java/canchas-proyect/sport-user-service/build/classes
+  - sonar.language=java
+  - sonar.projectBaseDir=C:\src\workspace\java\canchas-proyect\sport-user-service
+  - sonar.projectKey=TestUserServiceComplex
+  - sonar.projectName=TestUserServiceComplex
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.2.2472
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=C:\src\workspace\java\canchas-proyect\sport-user-service\src
+  - sonar.verbose=true
+  - sonar.working.directory=C:\src\workspace\java\canchas-proyect\sport-user-service\.scannerwork

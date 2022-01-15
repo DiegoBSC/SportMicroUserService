@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: sport-user-service
+  profiles:
+    include:
+      - dev
+  datasource:
+    url: jdbc:postgresql://localhost:5432/USER_SERVICE
+    username: postgres
+    password: system
+  jpa:
+    properties:
+      hibernate:
+        default_schema: public
+        order_by:
+          default_null_ordering: last
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        ddl-auto: validate
+        jdbc:
+          lob:
+            non_contextual_creation: true
+    show-sql: true
+  liquibase:
+    enabled: true
+    change-log: classpath:dbchangelog.xml
+server:
+  port: ${PORT:0}
+eureka:
+  instance:
+    instance-id:${spring.application.name}:${random.value}
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+jwt:
+  secret: secret_top
